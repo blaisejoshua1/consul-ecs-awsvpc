@@ -1,6 +1,6 @@
-variable "cluster_name" {
-  type = string
-  description = "A unique name applied to resources including the ECS cluster"
+#variable "cluster_name" {
+#  type = string
+ # description = "A unique name applied to resources including the ECS cluster"
 }
 
 variable "aws_region" {
